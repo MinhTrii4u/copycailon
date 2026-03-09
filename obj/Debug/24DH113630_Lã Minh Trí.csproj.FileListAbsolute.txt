@@ -1,0 +1,16 @@
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\bin\Debug\24DH113630_Lã Minh Trí.exe.config
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\bin\Debug\24DH113630_Lã Minh Trí.exe
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\bin\Debug\24DH113630_Lã Minh Trí.pdb
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.csproj.AssemblyReference.cache
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.csproj.CoreCompileInputs.cache
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.exe
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.pdb
+D:\Thuc hanh buoi 1\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.exe.config
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\bin\Debug\24DH113630_Lã Minh Trí.exe.config
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\bin\Debug\24DH113630_Lã Minh Trí.exe
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\bin\Debug\24DH113630_Lã Minh Trí.pdb
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.csproj.AssemblyReference.cache
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.csproj.CoreCompileInputs.cache
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.exe
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.pdb
+D:\Thuc hanh buoi 1 thuật toán đồ thị\24DH113630_Lã Minh Trí\obj\Debug\24DH113630_Lã Minh Trí.exe.config
